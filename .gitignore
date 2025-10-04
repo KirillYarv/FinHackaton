@@ -3,3 +3,4 @@ model_artifacts/
 .env
 venv/
 .idea
+*.csv
