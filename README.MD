@@ -24,8 +24,6 @@ nvidia-smi
 
 # Рекомендуемые спецификации:
 - GPU: NVIDIA с поддержкой CUDA (≥8GB VRAM)
-- Память: ≥16GB RAM
-- Python: 3.8+
 - PyTorch: с поддержкой CUDA
 ```
 ## Установка
